@@ -3,7 +3,7 @@
 <h2>👨‍💻 Web Dev Projects:</h2>
 
 - <b>Early Dev Personal Projects</b>
-  - [Nintendo Website Clone](https://github.com/thediamante/Nintendo-Clone) 
+  - [Nintendo Website Clone](https://thediamante.github.io/Nintendo-Clone/) 
   <img src="https://imagizer.imageshack.com/img924/5070/TjNdMY.png" width="300">
   
   - [Old YouTube homepage Clone](https://github.com/thediamante/old-youtube-homepage-clone)
