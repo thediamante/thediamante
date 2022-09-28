@@ -6,7 +6,8 @@
   - [Nintendo Website Clone](https://github.com/thediamante/Nintendo-Clone)
   - [Old YouTube homepage Clone](https://github.com/thediamante/Nintendo-Clone) <br/>
 - <b>WordPress Cooperative Projects</b>
-  - <a href="https://tillsanimalhealth.com/" target="_blank"><img src="https://imagizer.imageshack.com/img923/3035/svbtqs.png" width="300"></a> <img src="https://imagizer.imageshack.com/img923/7493/vC0uNq.png" width="300">
+  - <a href="https://tillsanimalhealth.com/"><img src="https://imagizer.imageshack.com/img923/3035/svbtqs.png" width="300"></a> <a href="https://mspenterprisepartners.com/"><img src="https://imagizer.imageshack.com/img923/7493/vC0uNq.png" width="300"></a> <a href="https://hlginsuranceoftexas.com/"><img src="https://imagizer.imageshack.com/img922/233/5bjJHc.png" width="300"></a>
+  - <a href="https://creditlab.com/"><img src="https://imagizer.imageshack.com/img924/5548/aRCESq.png" width="300"></a>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
