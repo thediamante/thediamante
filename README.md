@@ -4,7 +4,7 @@
 
 - <b>Early Dev Personal Projects</b>
   - [Nintendo Website Clone](https://github.com/thediamante/Nintendo-Clone)
-  - [YouTube homepage Clone](https://github.com/thediamante/Nintendo-Clone)
+  - [Old YouTube homepage Clone](https://github.com/thediamante/Nintendo-Clone)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
