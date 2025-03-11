@@ -6,10 +6,10 @@
 
 ## 👨‍💻 Web Dev Projects  
 
-### **GoHighLevel Cooperative Projects**  
+### **GoHighLevel Client Projects**  
 [![TFW Sauga](https://imgur.com/SJuz9mr)](https://contact.tfwsauga.com/tfw-form)
 
-### **WordPress Cooperative Projects**  
+### **WordPress Client Projects**  
 [![Tills Animal Health](https://imagizer.imageshack.com/img923/3035/svbtqs.png)](https://tillsanimalhealth.com/)  
 [![MSP Enterprise Partners](https://imagizer.imageshack.com/img923/7493/vC0uNq.png)](https://mspenterprisepartners.com/)  
 [![HLG Insurance of Texas](https://imagizer.imageshack.com/img922/233/5bjJHc.png)](https://hlginsuranceoftexas.com/)  
