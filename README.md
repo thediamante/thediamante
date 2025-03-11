@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael! <br/><a href="https://www.instagram.com/mdf8.art/">Artist</a>, <a href="https://youtu.be/k-70hKmZbRk">Music Producer</a>, <a href="https://github.com/thediamante/thediamante">Web Developer / Conversion  Rate Optimization Specialist</a></h1>
+<h1>Hi, I'm Michael! <a href="https://github.com/thediamante/thediamante">Web Developer / Conversion  Rate Optimization Specialist</a></h1> <br/> <a href="https://www.instagram.com/mdf8.art/">Artist</a>, <a href="https://youtu.be/k-70hKmZbRk">Music Producer</a>, 
 
 <h2>👨‍💻 Web Dev Projects:</h2>
 
