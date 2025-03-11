@@ -3,7 +3,8 @@
 <h2>👨‍💻 Web Dev Projects:</h2>
 
 - <b>GoHighLevel Cooperative Projects</b>
-<a href="https://contact.tfwsauga.com/tfw-form"><img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/SJuz9mr" data-context="false" ><a href="//imgur.com/a/SJuz9mr"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>" width="300">
+<a href="https://contact.tfwsauga.com/tfw-form"><img src="" width="300">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/SJuz9mr" data-context="false" ><a href="//imgur.com/a/SJuz9mr"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 - <b>WordPress Cooperative Projects</b>
   - <a href="https://tillsanimalhealth.com/"><img src="https://imagizer.imageshack.com/img923/3035/svbtqs.png" width="300"></a> <a href="https://mspenterprisepartners.com/"><img src="https://imagizer.imageshack.com/img923/7493/vC0uNq.png" width="300"></a> <a href="https://hlginsuranceoftexas.com/"><img src="https://imagizer.imageshack.com/img922/233/5bjJHc.png" width="300"></a>
