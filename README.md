@@ -2,7 +2,7 @@
 </h1>, 
 <h2>👨‍💻 Web Dev Projects:</h2>
 
-- <b>GoHighLevel Cooperative Projects</b>
+### - <b>GoHighLevel Cooperative Projects</b>
 <a href="https://contact.tfwsauga.com/tfw-form"><img src="//imgur.com/a/SJuz9mr" width="300">
 
 - <b>WordPress Cooperative Projects</b>
