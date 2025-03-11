@@ -6,6 +6,8 @@
 
 ## 👨‍💻 Web Dev Projects  
 
+I’ve worked on numerous landing pages across different industries, optimizing them for conversions and user experience. Below is a selection of projects that showcase my work
+
 ### **GoHighLevel Client Projects**  
 [![TFW Sauga](tfw-sauga-form)](https://contact.tfwsauga.com/tfw-form)
 [![Tribe](tribe-screenshot)](https://go.tribefitsf.com/presale-sign-up)
